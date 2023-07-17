@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering Student<br>Università degli Studi di Napoli Federico I
+Computer Engineering Student<br>Università degli Studi di Napoli Federico II
 
 
 ## 🌐 Socials:
