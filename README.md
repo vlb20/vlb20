@@ -1,5 +1,5 @@
 # 💫 About Me:
-Phd Student in AI for Software Engineering @ University of Italian Switzerland
+Phd Student in AI for Software Engineering @ University of Svizzera Italiana
 
 
 ## 🌐 Socials:
